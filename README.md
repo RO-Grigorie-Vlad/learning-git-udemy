@@ -1,4 +1,5 @@
 # learning-git-udemy
 Learning Git and Github following an Udemy course.
 
-README.md file was just eddited manually on Github.com. This file was modified locally.
+README.md file was just modified both manually and remotely (on Github)
+    and now I modified it again resolving the merge conflict.
